@@ -2,8 +2,8 @@
 title: Kal Pandit's Site
 author: kpandit
 email: kjpandit2@ebnet.org
-theme: minima
 ---
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Hello!
 
