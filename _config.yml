@@ -10,6 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username: kjpandit2 # DO NOT include the @ character, or else the build will fail!
 
 # theme
-theme: minima
+theme: jekyll-theme-cayman
 
 show_excerpts: true # set to false to remove excerpts on the homepage
